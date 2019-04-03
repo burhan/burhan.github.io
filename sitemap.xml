@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.burhan.dev/</loc>
+    <loc>https://burhan.dev/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.burhan.dev/categories/</loc>
+    <loc>https://burhan.dev/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.burhan.dev/tags/</loc>
+    <loc>https://burhan.dev/tags/</loc>
     <priority>0</priority>
   </url>
   
