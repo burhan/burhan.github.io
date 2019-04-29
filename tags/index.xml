@@ -6,9 +6,55 @@
     <description>Recent content in Tags on Burhan Khalid</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Sun, 28 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://burhan.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>hardware</title>
+      <link>https://burhan.dev/tags/hardware/</link>
+      <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://burhan.dev/tags/hardware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>laptops</title>
+      <link>https://burhan.dev/tags/laptops/</link>
+      <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://burhan.dev/tags/laptops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software</title>
+      <link>https://burhan.dev/tags/software/</link>
+      <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://burhan.dev/tags/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tech</title>
+      <link>https://burhan.dev/tags/tech/</link>
+      <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://burhan.dev/tags/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wsl</title>
+      <link>https://burhan.dev/tags/wsl/</link>
+      <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://burhan.dev/tags/wsl/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
